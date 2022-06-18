@@ -2,7 +2,7 @@
 
 YouTube video link:
 ---------------------------------------------------------------------------
-
+https://www.youtube.com/channel/UCDy2mk6UxkyAMnLBpYxBzWA/videos
 
 Public link for the presentation slides :
 ---------------------------------------------------------------------------
@@ -14,7 +14,7 @@ Diagnose Lung Cancer and Human-Machine Interaction Based on CNN and NLP
 
 Link to the paper:
 ---------------------------------------------------------------------------
-(https://ieeexplore.ieee.org/document/9725104)
+https://ieeexplore.ieee.org/document/9725104
 
 Group Number:
 ---------------------------------------------------------------------------
