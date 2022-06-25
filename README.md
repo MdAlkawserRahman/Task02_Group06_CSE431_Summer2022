@@ -2,11 +2,11 @@
 
 YouTube video link:
 ---------------------------------------------------------------------------
-https://www.youtube.com/channel/UCDy2mk6UxkyAMnLBpYxBzWA/videos
+https://youtu.be/H-iusAEOAkM
 
 Public link for the presentation slides :
 ---------------------------------------------------------------------------
-
+https://docs.google.com/presentation/d/1ZnphSflBy7CXmi2a5NyLPv7j7oF8oh7Q/edit?usp=sharing&ouid=110616486898925601482&rtpof=true&sd=true
 
 Paper title:
 ---------------------------------------------------------------------------
